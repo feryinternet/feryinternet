@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>CYBER CRIME</title>
 <script language="javascript">
-  window.location = "https://www.youtube.com/@feryiptv";
+  window.location = "https://www.youtube.com/@lga775iptv";
 </script>
 </head>
 
@@ -26822,8 +26822,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="0.REQ PLAYSLIST WA 085794973101",REQ PLAYLIST 12k/bulan
-https://youtube.com/@feryiptv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="0.REQ PLAYSLIST WA 085794973101",REQ PLAYLIST 15k/bulan
+https://youtube.com/@lga775iptv
 indonesia
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -27002,8 +27002,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://flv.intechmedia.net/live/ch106.m3u8
 
 *NASIONAL
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.FERY IPTV",FeryIptv
-https://youtube.com/@feryiptv
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.LGA775",LGA775 IPTV
+https://youtube.com/@lga775iptv
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -27011,8 +27011,8 @@ https://youtube.com/@feryiptv
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_inews_small.png" tvg-id="iNews.id" tvg-name="ID: iNews " group-title="NASIONAL",iNews
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.MAAF SIARAN DI PINDAH DI VIDEO TERBARU",YT  FERY IPTV
-https://youtube.com/@feryiptv
+#EXTINF:-1 tvg-id="LGA775Iptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.MAAF SIARAN DI PINDAH DI VIDEO TERBARU",YT  LGA775 IPTV
+https://youtube.com/@lga775iptv
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Net.id" tvg-logo="https://i.ibb.co.com/4FZ  RKkn/net.png",NET TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -27043,7 +27043,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTM3U
-#EXTM3U billed-msg="FERY IPTV2025 : feryiptv@gmail.com"* Connection #0 to host google.com left intact
+#EXTM3U billed-msg="LGA775 IPTV2025 YT: LGA775 IPTV"* Connection #0 to host google.com left intact
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
